@@ -1,2 +1,3 @@
 # vestore
 Repositorio de prueba veStore
+Próximamente disponible...
